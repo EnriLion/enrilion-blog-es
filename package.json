@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://EnriLion.github.io/enrilion-blog/",
+  "homepage": "https://EnriLion.github.io/enrilion-blog-es/",
   "dependencies": {
     "@fontsource/outfit": "^5.2.6",
     "@fontsource/roboto": "^5.2.6",

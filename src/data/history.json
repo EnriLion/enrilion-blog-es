@@ -4,23 +4,23 @@
     "organization": "TCS",
     "startDate": "Oct, 2024",
     "endDate": "Present",
-    "experiences": ["Worked on microservices", "Increased performance 42%"],
+    "experiences": ["Creación de microservicios", "Incremento de performace del 45%"],
     "imageSrc": "history/tcs.jpg"
     },
     {
-    "role": "IT Trainee",
+    "role": "Becario de TI",
     "organization": "TCS",
     "startDate": "Aug, 2024",
     "endDate": "Apr, 2025",
-    "experiences": ["Developed microservices", "Woked on migration"],
+    "experiences": ["Desarollo de microservicios", "Migraciones de sistema"],
     "imageSrc": "history/tcs.jpg"
     },
     {
-    "role": "Microsoft Developer Intern",
+    "role": "Becario de Desarollo de Microsoft",
     "organization": "GYA",
     "startDate": "Oct, 2023",
     "endDate": "Jun, 2024",
-    "experiences": ["Worked on making an app", "Helped to create flows"],
+    "experiences": ["Creación de aplicaciones", "Creación de flujos"],
     "imageSrc": "history/gya.jpg"
     }
 ]
