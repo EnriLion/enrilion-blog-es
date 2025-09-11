@@ -8,12 +8,12 @@ export const ProfileHeading = () => {
     return (
     <section className={styles.container}>
         <div className={styles.content}>
-            <h1 className={styles.title}>Hi, I'm Diego Leon</h1>
-            <p className={styles.description}>I'm a  Softwarer Developer with 
-                experience using Java Spring Boot and 
-                more. Contact me if you are interested!
+            <h1 className={styles.title}>Hola, soy Diego León</h1>
+            <p className={styles.description}> Soy un Desarollador de Software
+                con experiencia usando Java Spring Boot y muchos lenguajes 
+                más. ¡Contáctame si estas interesado!.
             </p>
-            <a href="https://wa.me/+527207239758?" className={styles.contactBtn}>Communicate with me!</a>
+            <a href="https://wa.me/+527207239758?" className={styles.contactBtn}>Mándame un mensaje</a>
             </div>    
             <img className={styles.profileImg} src={getImageUrl("profile/profile_icon.png")} alt="Portrait of me"/>
             <div className={styles.topBlur}/>

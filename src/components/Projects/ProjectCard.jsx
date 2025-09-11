@@ -31,14 +31,14 @@ export const ProjectCard = ({project : {title, imageSrc, description, skills, de
                     </ul>
                     <div className={styles.links}>
                         <a href={demo} onClick={() => handleButton("demo", event)} className={styles.link}>Demo</a>
-                        <a href={source} onClick={() => handleButton("source", event)} className={styles.link}>Source</a>
+                        <a href={source} onClick={() => handleButton("source", event)} className={styles.link}>Código</a>
                     </div>
                     {showCard && (
                         <div style={styles.card}>
-                            <h2>Under maintenance</h2>
-                            <p>I'm tweaking it </p>
-                            <button onClick={handleClose}>Close</button>
-                        </div>
+                            <h2>Bajo mantenimiento</h2>
+                            <p>Necesita unos ajustes</p>
+                            <button onClick={handleClose}>Cerrar</button>
+                            </div>
                     )}
             </div>
     );

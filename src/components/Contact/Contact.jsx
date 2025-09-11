@@ -4,10 +4,10 @@ import { getImageUrl } from "../../utils";
 import styles from './Contact.module.css'
 
 export const Contact = () => {
-    return <footer id="contact" className={styles.container}>
+    return <footer id="contactame" className={styles.container}>
         <div className={styles.text}>
-            <h2>Reach out!</h2>
-            <p>Get in touch with me!</p>
+            <h2>¡Enviame un mensaje!</h2>
+            <p>¡Conecta conmigo!</p>
         </div>
         <ul className={styles.links}>
             <li className={styles.link}>
