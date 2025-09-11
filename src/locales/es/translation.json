@@ -1,0 +1,60 @@
+[
+    {
+        "navbarTitle": "Mi Portafolio",
+        "navbarMenu": ["Descripción", "Experiencia", "Proyectos", "Contáctame"]
+    },
+    {
+        "profileMessage": "Hola soy Enrique Leon",
+        "profileDescription": "Soy un Desarollador de Software tengo experiencia usando Java SpringBoot y mas. ¡Contactame si estas interesado!",
+        "profileButton": "¡Comunicate conmingo!"
+    },
+    {
+        "aboutTitle": "Aprende más acerca de mi",
+        "aboutItem" :  [ {
+            "aboutItemBackend" : ["Desarollador Backend", "Soy un desarollador con experiencia creando RESTful APIs y Microservicios"],
+            "aboutItemFrontend" : ["Desarollador Frontend", "Tengo experiencia desarrollando paginas y sitios increibles"],
+            "aboutItemDesigner" : ["Diseñador  Interfaces de Usuario", "Anteriormente he diseñado muchas aplicaciones y  diseño de sistemas"]
+        }]
+    },
+    {
+        "experienceTitulo": "Experiencia",
+        "skills": [
+            {
+                "title": "HTML",
+                "imageSrc": "skills/html.svg"
+            },
+            {
+                "title": "CSS",
+                "imageSrc": "skills/css.svg"
+            },
+            {
+                "title": "React",
+                "imageSrc": "skills/react.svg"
+            },
+            {
+                "title": "Spring Boot",
+                "imageSrc": "skills/spring.svg"
+            },
+            {
+                "title": "SQL",
+                "imageSrc": "skills/sql.svg"
+            },
+            {
+                "title": "MongoDB",
+                "imageSrc": "skills/mongo.svg"
+            },
+            {
+                "title": "Kafka",
+                "imageSrc": "skills/kafka.svg"
+            },
+            {
+                "title": "Cloud",
+                "imageSrc": "skills/aws.svg"
+            },
+            {
+                "title": "Figma",
+                "imageSrc": "skills/figma.svg"
+            }
+        ]
+    }
+]

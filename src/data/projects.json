@@ -1,0 +1,26 @@
+[
+    {
+        "title": "CMS - Vendor",
+        "imageSrc": "projects/cms.png",
+        "description": "A project made for a vendor with management of videos and images",
+        "skills": ["Spring Boot", "React", "SQL"],
+        "demo": "not available",
+        "source": "https://github.com/EnriLion/cms-webapp"
+    },
+    {
+        "title": "Check-in(Microservice)",
+        "imageSrc": "projects/check.png",
+        "description": "A project made for the cloud who follows microservice architecture",
+        "skills": ["Spring Boot", "SQL", "Cloud"],
+        "demo": "not available",
+        "source": "https://github.com/EnriLion/check-in-check-out"
+    },
+    {
+        "title": "Application-Vendor",
+        "imageSrc": "projects/tipo.png",
+        "description": "Modern application for a vendor with the latest technologies",
+        "skills": ["React", "Express", "Node"],
+        "demo": "not available",
+        "source": "not available"
+    }
+]
