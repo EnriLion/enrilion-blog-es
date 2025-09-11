@@ -9,7 +9,7 @@ export default defineConfig({
       localsConvention: "camelCase",
     },
   },
-  base: "/enrilion-blog/",
+  base: "/enrilion-blog-es/",
   build: {
     outDir: 'dist',
   },
