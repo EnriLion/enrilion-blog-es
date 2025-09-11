@@ -1,0 +1,26 @@
+[
+    {
+    "role": "Software Engineer",
+    "organization": "TCS",
+    "startDate": "Oct, 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on microservices", "Increased performance 42%"],
+    "imageSrc": "history/tcs.jpg"
+    },
+    {
+    "role": "IT Trainee",
+    "organization": "TCS",
+    "startDate": "Aug, 2024",
+    "endDate": "Apr, 2025",
+    "experiences": ["Developed microservices", "Woked on migration"],
+    "imageSrc": "history/tcs.jpg"
+    },
+    {
+    "role": "Microsoft Developer Intern",
+    "organization": "GYA",
+    "startDate": "Oct, 2023",
+    "endDate": "Jun, 2024",
+    "experiences": ["Worked on making an app", "Helped to create flows"],
+    "imageSrc": "history/gya.jpg"
+    }
+]
