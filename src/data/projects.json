@@ -5,7 +5,7 @@
         "description": "Un proyecto para un cliente para administrar videos e imagenes",
         "skills": ["Spring Boot", "React", "SQL"],
         "demo": "not available",
-        "source": "https://github.com/EnriLion/cms-webapp"
+        "source": "not available"
     },
     {
         "title": "Check-in(Microservice)",

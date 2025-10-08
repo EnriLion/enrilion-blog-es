@@ -1,5 +1,13 @@
 [
     {
+    "role": "Desarollador Java",
+    "organization": "Capgemini",
+    "startDate": "Sep, 2025",
+    "endDate": "Present",
+    "experiences": ["Creación de aplicaciones", "Aumento de escalación en un 3.5%"],
+    "imageSrc": "history/capgemini.jpg"
+    },
+    {
     "role": "Desarollador de Software",
     "organization": "TCS",
     "startDate": "Oct, 2024",
@@ -14,13 +22,5 @@
     "endDate": "Apr, 2025",
     "experiences": ["Desarollo de microservicios", "Migraciones de sistema"],
     "imageSrc": "history/tcs.jpg"
-    },
-    {
-    "role": "Becario de Desarollo de Microsoft",
-    "organization": "GYA",
-    "startDate": "Oct, 2023",
-    "endDate": "Jun, 2024",
-    "experiences": ["Creación de aplicaciones", "Creación de flujos"],
-    "imageSrc": "history/gya.jpg"
     }
 ]
